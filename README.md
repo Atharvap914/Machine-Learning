@@ -9,4 +9,4 @@ Machine Learning enables computers to behave like human beings by training them 
 
 ## smv
 
-![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/Atharvap914/Machine-Learning/blob/main/Add-a-heading-3-2048x1152.png))
+![App Screenshot](https://github.com/Atharvap914/Machine-Learning/blob/main/Add-a-heading-3-2048x1152.png)
